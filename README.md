@@ -16,3 +16,4 @@ I like tables:
 | this is | the header | of my new | Table |
 | --- | --- | --- | --- | 
 | I can | write | anything | here |
+| 2.3 | 4.5 | 6.7 | 8.9 | 
