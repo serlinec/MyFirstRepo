@@ -19,4 +19,4 @@ I like tables:
 | 2.3 | 4.5 | 6.7 | 8.9 | 
 | Serline | Coelho | | | 
 
-![original](https://user-images.githubusercontent.com/112104031/187476217-f5feb52a-bdac-4889-8d28-3867073eed42.jpg)
+<img width="137"![original](https://user-images.githubusercontent.com/112104031/187476217-f5feb52a-bdac-4889-8d28-3867073eed42.jpg)
